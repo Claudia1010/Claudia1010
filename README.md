@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I'm Claudia Christensen, student of GeeksHubs Academy currently 👋
 
-<!--
-**Claudia1010/Claudia1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪🏼 My goal is to work in the tech industry ✨
 
-Here are some ideas to get you started:
+🌟 I had studied advertising and worked in different unrelated fields, also I have lived in different countries and got to know different cultures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It has been a long-term goal of mine to pursue a career in IT and now I am dedicating myself to it ❤️ .
+
+👩🏻‍💻 As student I am currently learning:
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logosw3_html5/w3_html5-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+
+
+## I'm @claudiachristensen2 in internet
+
+🔎 Finally, you can find me in:
+ 
+<code><a href="linkedin.com/in/claudiaadrianachristensen"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+
