@@ -16,5 +16,5 @@ It has been a long-term goal of mine to pursue a career in IT and now I am dedic
 
 🔎 Finally, you can find me in:
  
-<code><a href="linkedin.com/in/claudiaadrianachristensen"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/claudiaadrianachristensen"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
