@@ -1,4 +1,4 @@
-### Hi! I'm Claudia Christensen, student of GeeksHubs Academy 👋
+### Hi! I'm Claudia Christensen, Fullstack developer 👋
 
 💪🏼 My goal is to work in the tech industry ✨
 
@@ -6,7 +6,7 @@
 
 It has been a long-term goal of mine to pursue a career in IT and now I am dedicating myself to it ❤️ .
 
-👩🏻‍💻 As student I am currently learning:
+👩🏻‍💻 I have worked with:
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
