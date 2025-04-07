@@ -1,4 +1,4 @@
-### Hi! I'm Claudia Christensen, Fullstack developer 👋
+### Hi! I'm Claudia Christensen👋
 
 💪🏼 My goal is to work in the tech industry ✨
 
